@@ -183,9 +183,10 @@ int main()
     return 0;
 }
 ```
-OUTPUT:
+
+# OUTPUT:
 <img width="1147" height="424" alt="image" src="https://github.com/user-attachments/assets/f940fe64-fd05-4fa9-aa58-7f9a826f0631" />
 
-RESULT:
+# RESULT:
 Thus, the program is verified successfully.
 
